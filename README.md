@@ -1,9 +1,4 @@
-### Hi there , eu me chamo Juan Daniel
-
-##  Ferramentas e tecnologias
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+### Hi there , eu  sou o Juan Daniel
           
 
   <!--
