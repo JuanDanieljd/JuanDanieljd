@@ -3,8 +3,7 @@ Bem vindo ao meu github
           
   **JuanDanieljd/JuanDanieljd**
 
-- 🔭 Estou estou trabalhabdo em uma empresa de Tecnologia Data Center;
-- 🌱 Eu estou aprendendo atualmente inglês; 
+- 🔭 Estou trabalhabdo em uma empresa de Tecnologia Data Center;
 - 👯 Estou aprendendo mais as linguagens de programações;              .
 
  ## Estou aprendendo
