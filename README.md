@@ -5,10 +5,7 @@ Bem vindo ao meu github
 
 - 🔭 Estou estou trabalhabdo em uma empresa de Tecnologia Data Center;
 - 🌱 Eu estou aprendendo atualmente inglês; 
-- 👯 Estou aprendendo mais as linguagens de programações;              
-- 📫  Contato: silva201806@gmail.com       
--     Linkedin:  juandanielpcd
-- ⚡  Curiosidades: Tenho o espanhol avançado e estou cursando o inglê atualmente.
+- 👯 Estou aprendendo mais as linguagens de programações;              .
 
  ## Estou aprendendo
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
